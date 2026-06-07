@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --pattern-fg: rgba(255, 255, 255, 0.05);
+  }
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html[data-scroll-behavior="smooth"] {
+    scroll-behavior: smooth;
+  }
+  * { -webkit-tap-highlight-color: transparent; box-sizing: border-box; }
+  body { font-family: var(--font-mono); }
+}
