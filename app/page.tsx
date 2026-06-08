@@ -16,7 +16,7 @@ export default function HomePage() {
 
       <main className="flex-1 px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-8">
         <div className="mb-8">
-          <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">그림자 일기</h1>
+          <h1 className="text-2xl font-bold text-neutral-100 tracking-tight mb-1">Ranobel</h1>
           <p className="text-xs text-neutral-400">Read. Learn Korean. One chapter at a time.</p>
         </div>
 

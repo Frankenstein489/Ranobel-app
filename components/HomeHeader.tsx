@@ -7,7 +7,7 @@ export function HomeHeader() {
       <div className="flex items-center px-[calc(1.25rem+8px)] md:px-[calc(2.5rem+16px)] py-3">
         <motion.div whileHover={{ scale: 1.05 }} transition={{ type: 'spring', stiffness: 400, damping: 20 }}>
           <span className="text-sm font-bold text-neutral-100 tracking-tight">
-            그림자 일기
+            Ranobel
           </span>
         </motion.div>
       </div>

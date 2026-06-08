@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next"
 const mono = JetBrains_Mono({ subsets: ['latin', 'latin-ext'], variable: '--font-mono', display: 'swap' })
 
 export const metadata: Metadata = {
-  title: '그림자 일기',
+  title: 'Ranobel',
   description: 'Read light novels. Learn Korean.',
   icons: {
     icon: '/davicon.ico',
