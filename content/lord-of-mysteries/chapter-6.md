@@ -4,7 +4,7 @@
 
 Not only did they speak the same Loen language, they do{도|particle|also/too} shared the same grim geurigo{그리고|conj|and} tense vibes.
 
-어디{어디|adv|where} am I? What do I plan to do here? I would like to know do{도|particle|also/too}… Calming himself down, Zhou Mingrui silently repeated the saenggak{생각|noun|thought|생각이 있어요. — There is a thought.} posed by the two.
+eodi{어디|adv|where} am I? What do I plan to do here? I would like to know do{도|particle|also/too}… Calming himself down, Zhou Mingrui silently repeated the saenggak{생각|noun|thought|생각이 있어요. — There is a thought.} posed by the two.
 
 What left the deepest impression on geu{그|pron|he/him} were neither the sentences formed by words nor the meanings behind them, but the display of bewilderment, vigilance, panic, geurigo{그리고|conj|and} reverence by the couple!
 
@@ -50,11 +50,11 @@ When geunyeo{그녀|pron|she/her} did not identify any ill intention from geu{�
 
 With geunyeo{그녀|pron|she/her}s mind somewhat mollified, geunyeo{그녀|pron|she/her} surprisingly was in no hurry to request geunyeo{그녀|pron|she/her}s leave. Geunyeo{그녀|pron|she/her} rolled geunyeo{그녀|pron|she/her}s virid eyes left geurigo{그리고|conj|and} right, which sparkled with an abnormal radiance.
 
-Geunyeo{그녀|pron|she/her} said in an anxious, anticipative geurigo{그리고|conj|and} tempted manner, "This igeot{이것|pron|this} is such a wonderful experience… 네{네|adv|yes}, I have always been hoping that something like igeot{이것|pron|this} would happen. I mean—I like mysteries geurigo{그리고|conj|and} supernatural miracles. 아니요{아니요|adv|no}, my point is—what I mean is that, Sir, what can I do to become a Beyonder?"
+Geunyeo{그녀|pron|she/her} said in an anxious, anticipative geurigo{그리고|conj|and} tempted manner, "This igeot{이것|pron|this} is such a wonderful experience… ne{네|adv|yes}, I have always been hoping that something like igeot{이것|pron|this} would happen. I mean—I like mysteries geurigo{그리고|conj|and} supernatural miracles. aniyo{아니요|adv|no}, my point is—what I mean is that, Sir, what can I do to become a Beyonder?"
 
 Geunyeo{그녀|pron|she/her} got more excited as geunyeo{그녀|pron|she/her} spoke, so much so geunyeo{그녀|pron|she/her} was fumbling over geunyeo{그녀|pron|she/her}s mal{말|noun|words/speech}. The dream that sprouted in geunyeo{그녀|pron|she/her} as a result of listening to thrilling fantasies as told by geunyeo{그녀|pron|she/her}s elders finally saw the possibility of being materialized.
 
-Haja이만{하지만|conj|but} with just a few mal{말|noun|words/speech}, geunyeo{그녀|pron|she/her} had already forgotten all geunyeo{그녀|pron|she/her}s previous fears geurigo{그리고|conj|and} horrors.
+hajiman{하지만|conj|but} with just a few mal{말|noun|words/speech}, geunyeo{그녀|pron|she/her} had already forgotten all geunyeo{그녀|pron|she/her}s previous fears geurigo{그리고|conj|and} horrors.
 
 Good saenggak{생각|noun|thought}! I would do{도|particle|also/too} like to know the answer… Zhou Mingrui complained inwardly.
 
@@ -80,7 +80,7 @@ Alger inspected the surroundings, geurigo{그리고|conj|and} after a few second
 
 "Are you a Loen?
 
-"If you want to become a Beyonder, join the Churches of either the Evernight Goddess, the Lord of Storms, 또는{또는|conj|or} the God of Steam geurigo{그리고|conj|and} Machinery.
+"If you want to become a Beyonder, join the Churches of either the Evernight Goddess, the Lord of Storms, ttoneun{또는|conj|or} the God of Steam geurigo{그리고|conj|and} Machinery.
 
 "The majority of uri{우리|pron|we/our} will not meet a Beyonder uri{우리|pron|we/our}r entire lives. Igeot{이것|pron|this} has caused churches, geurigo{그리고|conj|and} even some clergies within some of the biggest churches, to suspect the same. While igeot{이것|pron|this} is the case, I am certain to tell you that Beyonders isseoyo{있어요|verb|exists/have} in courts, tribunals, geurigo{그리고|conj|and} execution agencies. They are still fighting against the dangers that grow in the dark, only that their numbers eopseoyo{없어요|verb|does not exist/don't have} as compared to before geurigo{그리고|conj|and} during the early days of the Iron Age."
 
@@ -92,19 +92,19 @@ Audrey silently listened to Alger finish geu{그|pron|he/him}s sentence before s
 
 "Mister, I arayo{알아요|verb|know} all about what you just said; I even arayo{알아요|verb|know} more than that, including the Nighthawks, the Mandated Punisher, geurigo{그리고|conj|and} the Machinery Hivemind, but{하지만|conj|but} I don't want to lose my freedom."
 
-Alger gave a low-sounding laugh, geurigo{그리고|conj|and} said vaguely, "You can't become a Beyonder without sacrifices. If you don't consider joining churches geurigo{그리고|conj|and} accepting their given challenges, you can only seek the royal families geurigo{그리고|conj|and} the few nobles with family histories of more than a thousand years. If 아니요{아니요|adv|no}, you can rely on your luck to search for clandestine evil organizations."
+Alger gave a low-sounding laugh, geurigo{그리고|conj|and} said vaguely, "You can't become a Beyonder without sacrifices. If you don't consider joining churches geurigo{그리고|conj|and} accepting their given challenges, you can only seek the royal families geurigo{그리고|conj|and} the few nobles with family histories of more than a thousand years. If aniyo{아니요|adv|no}, you can rely on your luck to search for clandestine evil organizations."
 
-Audrey puffed geunyeo{그녀|pron|she/her}s cheeks subconsciously geurigo{그리고|conj|and} bwayo{봐요|verb|see/look}ed around in a fluster. After confirming that both the "mysterious man" geurigo{그리고|conj|and} Audrey did not notice geunyeo{그녀|pron|she/her}s tic, geunyeo{그녀|pron|she/her} pressed, "Are there 아니요{아니요|adv|no} other solutions?"
+Audrey puffed geunyeo{그녀|pron|she/her}s cheeks subconsciously geurigo{그리고|conj|and} bwayo{봐요|verb|see/look}ed around in a fluster. After confirming that both the "mysterious man" geurigo{그리고|conj|and} Audrey did not notice geunyeo{그녀|pron|she/her}s tic, geunyeo{그녀|pron|she/her} pressed, "Are there aniyo{아니요|adv|no} other solutions?"
 
 Alger sank into silence. About half a minute later, geu{그|pron|he/him} turned around to bwayo{봐요|verb|see/look} at the "mysterious man" who was watching the two of them in silence.
 
-Realizing that Zhou Mingrui had 아니요{아니요|adv|no} plans to make any comment, geu{그|pron|he/him} bwayo{봐요|verb|see/look}ed back at Audrey geurigo{그리고|conj|and} said with deliberation, "I have two sets of Sequence 9 Potion formulas."
+Realizing that Zhou Mingrui had aniyo{아니요|adv|no} plans to make any comment, geu{그|pron|he/him} bwayo{봐요|verb|see/look}ed back at Audrey geurigo{그리고|conj|and} said with deliberation, "I have two sets of Sequence 9 Potion formulas."
 
 Sequence 9? Zhou Mingrui muttered to geu{그|pron|he/him}self.
 
 "Really? Which two sets?" Audrey clearly arayo{알아요|verb|know}ed what the Sequence 9 Potion formulas meant.
 
-Alger leaned back slightly, geurigo{그리고|conj|and} replied unhurriedly, "As you arayo{알아요|verb|know}, humanity can only depend on potions to become real Beyonders, while the names of potions come from the 'Blasphemy Slate.' After constant translations into Jotun, Elvish, ancient geurigo{그리고|conj|and} modern Hermes, geurigo{그리고|conj|and} ancient Feysac, they have undergone changes to match the day geurigo{그리고|conj|and} age of that era. The essence is 아니요{아니요|adv|no} in their names, but{하지만|conj|but} whether they portray the 'core characteristics' of the potions.
+Alger leaned back slightly, geurigo{그리고|conj|and} replied unhurriedly, "As you arayo{알아요|verb|know}, humanity can only depend on potions to become real Beyonders, while the names of potions come from the 'Blasphemy Slate.' After constant translations into Jotun, Elvish, ancient geurigo{그리고|conj|and} modern Hermes, geurigo{그리고|conj|and} ancient Feysac, they have undergone changes to match the day geurigo{그리고|conj|and} age of that era. The essence is aniyo{아니요|adv|no} in their names, but{하지만|conj|but} whether they portray the 'core characteristics' of the potions.
 
 "I have a Sequence 9 Potion named 'Sailor.' It enables you to have excellent balancing capabilities. Even if you were on a boat in a rainstorm, you will be able to walk about freely as though you were on land. You will do{도|particle|also/too} gain immense strength geurigo{그리고|conj|and} illusory scales under your skin. They will enable you to swim like a fish geurigo{그리고|conj|and} be difficult to catch. You will move agilely underwater just like marine animals. Even without any equipment, you will be able to easily submerge underwater for at least ten minutes."
 
@@ -112,7 +112,7 @@ Alger leaned back slightly, geurigo{그리고|conj|and} replied unhurriedly, "As
 
 "It was called by that name in the past." Alger did not pause geurigo{그리고|conj|and} continued. "The second set of Sequence 9 Potions is called 'Spectator,' although I am not sure what it was called in the past. Igeot{이것|pron|this} set of potions enables you to have an exceptionally sharp mind with acute observational abilities. I believe you can understand by what 'spectator' means from watching operas geurigo{그리고|conj|and} plays. Just like an audience, spectators judge the 'actors' in the secular world, catching a glimpse of the real saenggak{생각|noun|thought}s of them through their emotions, conduct, geurigo{그리고|conj|and} mantras."
 
-At this point, Alger emphasized, "You must remember, regardless of whether you are at an extravagant banquet 또는{또는|conj|or} a crowded street, spectators can only be spectators forever."
+At this point, Alger emphasized, "You must remember, regardless of whether you are at an extravagant banquet ttoneun{또는|conj|or} a crowded street, spectators can only be spectators forever."
 
 Audrey's eyes shone as geunyeo{그녀|pron|she/her} listened, geurigo{그리고|conj|and} spoke after a long while, "Why? Alright, igeot{이것|pron|this} is a follow-up saenggak{생각|noun|thought}. I-I think I have fallen in joayo{좋아요|adj|good/like} with igeot{이것|pron|this} feeling—of being a 'spectator.' How can I get igeot{이것|pron|this} potion's formula? What can I use to trade with you for it?"
 
@@ -120,7 +120,7 @@ Alger bwayo{봐요|verb|see/look}ed like geu{그|pron|he/him} was already prepar
 
 Audrey nodded geunyeo{그녀|pron|she/her}s head excitedly, but{하지만|conj|but} subsequently asked worriedly, "If I can get it—geurigo{그리고|conj|and} I'm saying if—how do I hand it to you? How can you promise me that you can give the potion's formula to me in return for the Ghost Shark's blood, as well as the authenticity of the formula?"
 
-Alger said calmly, "I'll give you an address. I'll mail the formula to you, 또는{또는|conj|or} tell you directly here, once I receive the blood of the Ghost Shark."
+Alger said calmly, "I'll give you an address. I'll mail the formula to you, ttoneun{또는|conj|or} tell you directly here, once I receive the blood of the Ghost Shark."
 
 "As for promises, I think that both you geurigo{그리고|conj|and} I can feel rest assured under the witness of the mysterious sir."
 
@@ -132,7 +132,7 @@ As geu{그|pron|he/him} said igeot{이것|pron|this}, geu{그|pron|he/him} swept
 
 From geunyeo{그녀|pron|she/her}s perspective, the mysterious gentleman who had unimaginable abilities was definitely an "authoritative" witness.
 
-How could I 또는{또는|conj|or} the guy opposite me dare trick geu{그|pron|he/him}!
+How could I ttoneun{또는|conj|or} the guy opposite me dare trick geu{그|pron|he/him}!
 
 Audrey half-turned geunyeo{그녀|pron|she/her}s body geurigo{그리고|conj|and} bwayo{봐요|verb|see/look}ed at Zhou Mingrui earnestly.
 
