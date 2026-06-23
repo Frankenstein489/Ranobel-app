@@ -232,7 +232,7 @@ igeot이것{이것|pron|this} was because they were mal말{말|noun|words/speech
 
 Chinese!
 
-geurigo그리고{그리고|conj|and} it's f\*\*king Simplified Chinese!
+geurigo그리고{그리고|conj|and} it's fucking Simplified Chinese!
 
 ---
 
