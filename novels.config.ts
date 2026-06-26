@@ -22,6 +22,17 @@ const novels: Novel[] = [
     contentFolder: 'lord-of-mysteries',
     type: 'md',
   },
+  {
+    id: 'Slime',
+    title: 'Tensei Shitara Slime Datta Ken',
+    author: 'Fuse',
+    description: 'A man is stabbed by a robber on the run after pushing his coworker and his coworker’s new fiance out of the way. As he lays dying, bleeding on the ground, he hears a voice. This voice is strange and interprets his dying regret of being a virgin by giving him the [Great Sage] unique skill! Is he being made fun of ?!',
+    genre: ['Comedy', 'Fantasy', 'Action', 'Adventure', 'Shounen'],
+    coverImage: '/covers/Rimuru.jpg',
+    totalChapters: 413,
+    contentFolder: 'slime',
+    type: 'md',
+  },
 ]
 
 export default novels
