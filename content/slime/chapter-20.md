@@ -358,10 +358,6 @@ Ours objective was achieved: we returned to the village!
 
 ---
 
-Author’s note: Since there was no change in the status, I removed it
-
----
-
 ## New Words This Chapter
 
 | English | Korean | Romanization | Type |
