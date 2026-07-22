@@ -30,14 +30,14 @@ const novels: Novel[] = [
     description:
       "A man is stabbed by a robber on the run after pushing his coworker and his coworker’s new fiance out of the way. As he lays dying, bleeding on the ground, he hears a voice. This voice is strange and interprets his dying regret of being a virgin by giving him the [Great Sage] unique skill! Is he being made fun of ?!",
     genre: ["Comedy", "Fantasy", "Action", "Adventure", "Shounen"],
-    coverImage: "/covers/slime.jpg",
+    coverImage: "/covers/Rimuru.jpg",
     totalChapters: 413,
     contentFolder: "slime",
     type: "md",
   },
   {
-    id: "Omniscient Reader’s Viewpoint",
-    title: "Omniscient Reader’s Viewpoint",
+    id: "Omniscient-Reader-Viewpoint",
+    title: "Omniscient Reader Viewpoint",
     author: "Sing-Shong, 싱숑",
     description:
       "Only I know the end of this world.One day our MC finds himself stuck in the world of his favorite webnovel. What does he do to survive? It is a world struck by catastrophe and danger all around.His edge? He knows the plot of the story to end. Because he was the sole reader that stuck with it. Read his story to see how he survives!",
