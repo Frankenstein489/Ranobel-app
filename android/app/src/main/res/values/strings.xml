@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ranobel</string>
+    <string name="title_activity_main">Ranobel</string>
+    <string name="package_name">com.ranobel.app</string>
+    <string name="custom_url_scheme">com.ranobel.app</string>
+</resources>
