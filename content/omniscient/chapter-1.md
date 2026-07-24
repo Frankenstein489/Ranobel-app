@@ -1,4 +1,4 @@
-# Starting the Paid Service (1)
+# Episode 1 - Starting the Paid Service (1)
 
 ---
 
